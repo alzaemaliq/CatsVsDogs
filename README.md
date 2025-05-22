@@ -8,6 +8,7 @@ Model Evaluation
 ![Model Evaluation](evaluation_plot.png)
 
 Features
+
 CNN architecture with Conv2D, MaxPooling, Dropout, and Dense layers
 
 Binary classification using sigmoid activation
