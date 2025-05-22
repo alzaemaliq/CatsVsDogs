@@ -7,7 +7,8 @@ The model achieves a training accuracy of 87.88% and a validation accuracy of 84
 Model Evaluation
 ![Model Evaluation](evaluation_plot.png)
 
-Features
+
+🔍 Features
 
 CNN architecture with Conv2D, MaxPooling, Dropout, and Dense layers
 
