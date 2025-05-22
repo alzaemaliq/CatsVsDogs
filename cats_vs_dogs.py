@@ -82,4 +82,4 @@ plt.legend()
 plt.title('Accuracy over Epochs')                           
 plt.show()
 
-model.save('cats_vs_dogs_model.keras')
+model.save('cats_vs_dogs_modelV2.keras')
